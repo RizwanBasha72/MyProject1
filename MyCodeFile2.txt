@@ -1,0 +1,3 @@
+This is a sample code file 2 to practice git with.
+Rev. 1
+
